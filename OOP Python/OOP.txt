@@ -1,0 +1,23 @@
+Types of variables in OOP python:
+a. class variables : also called as static variables.
+b. instance variables
+
+Types of methods in python
+a. Instance methods
+b. Class methods
+c. Static methods
+ 
+a. Instance methods:
+    In instance we have two different types:
+        1.Accessor Methods : Only fetches the value.
+        2.Mutator Methods : Modifies the value.
+b. Class Methods:
+    To access class variables we use class methods.
+    @classmethod is used to define class method which is
+     known as decorator.
+
+c. Static method: Not concerned about class or instance variable.
+    @staticmethod
+    
+
+    
